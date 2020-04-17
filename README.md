@@ -1,2 +1,2 @@
 # harato_voiceless
-description
+- it is adviced to read in RAW form
